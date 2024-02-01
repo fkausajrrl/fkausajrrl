@@ -4,7 +4,7 @@
      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
      <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> 
   </div>    
-  ## 🔨 STACKS 🔨
+  <h2>🔨 STACKS 🔨</h2> 
   <br>
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
      <!-- Frontend -->
