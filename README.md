@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## 💻Languages💻
 <br>
   <div>
@@ -7,6 +5,7 @@
      <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> 
   </div>    
   ## 🔨 STACKS 🔨
+  <br>
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
      <!-- Frontend -->
     <p><strong>Frontend</strong></p>
