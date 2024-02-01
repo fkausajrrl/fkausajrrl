@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-## 🔨 STACKS 🔨
+## 💻Languages💻
+<br>
+  <div>
+     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
+     <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> 
+  </div>    
+  ## 🔨 STACKS 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
      <!-- Frontend -->
     <p><strong>Frontend</strong></p>
@@ -36,14 +42,6 @@
          <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
 </div><br>
 </div>
-<hr>
-
-## 💻Languages💻
-<br>
-  <div>
-     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
-     <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> 
-  </div>    
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=200sein)](https://solved.ac/200sein/)<br>
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fkausajrrl&show_icons=true&theme=radical)-->
